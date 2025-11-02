@@ -1,6 +1,6 @@
 # Welcome to Motion 👋
 
-**Streamlining recurring payments for service-based businesses across Bahrain**
+**Streamlining recurring payments for service-based businesses**
 
 Motion is a SaaS billing management platform that automates the entire payment cycle—from reminders to receipts—helping businesses save time and secure consistent cash flow.
 
@@ -11,13 +11,7 @@ We empower schools, nurseries, gyms, sports academies, restaurants, and rental p
 - **Automated WhatsApp Reminders** – Customizable payment notifications sent directly to subscribers
 - **Secure Payment Processing** – Integrated with Tap payment services for seamless online transactions
 - **Digital Receipts** – Instant receipt generation upon payment completion to insure legal compliance
-- **Smart Dashboards** – Real-time insights into payment statuses, due dates, and business performance
-- **Flexible Billing** – Support for monthly, semester, trimester, and annual billing cycles
-- **Bulk Management** – CSV import/export for efficient subscriber management
-
-## 💡 Our Impact
-
-Motion currently processes thousands of transactions monthly, serving prominent clients across Bahrain and helping businesses manage a large number of transactions with complete automation.
+- **Smart Reporting** – Real-time insights into payment statuses, due dates, and business performance
 
 ## 🤝 Backed By
 
@@ -27,7 +21,7 @@ Motion currently processes thousands of transactions monthly, serving prominent 
 
 ## 📫 Get in Touch
 
-Interested in automating your billing? Visit our website or reach out to learn how Motion can transform your payment operations.
+Interested in automating your billing? Visit our website or [reach out through email](mailto:hello@getmotion.tech) to learn how Motion can transform your payment operations.
 
 ---
 
